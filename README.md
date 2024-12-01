@@ -2,6 +2,8 @@
 
 Este projeto é um **scraper** desenvolvido para coletar informações de **leilões**, incluindo detalhes de cada **lote** e os **itens contidos em cada lote**.
 
+![image](https://github.com/user-attachments/assets/c407641a-0bdf-4276-a964-f95f42d188d6)
+
 ## 📋 Funcionalidades
 - Recupera todos os **leilões disponíveis**.
 - Extrai informações detalhadas de cada **lote**.
